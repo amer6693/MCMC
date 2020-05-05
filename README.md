@@ -1,2 +1,2 @@
-# amer6693
+# Markov Chain Monte Carlo
 MCMC using RStan package
