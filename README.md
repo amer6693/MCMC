@@ -1,2 +1,2 @@
 # Markov Chain Monte Carlo
-MCMC using RStan package
+MCMC using RStan package to sample from posterior distribution
